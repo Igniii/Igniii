@@ -1,29 +1,25 @@
-## Hi there 👋
+## Hey there 🤙
 
-### 🔭 I’m currently working on
-- My final degree project: a full-stack inventory management web application using **Angular**, **Spring Boot**, and **MySQL**.
+I'm Igniii, a full-stack developer based in Spain.
 
-### 🌱 I’m currently learning
-- Advanced Angular patterns  
-- REST API design and Spring Boot best practices  
-- Deployment workflows for full-stack applications
+I like building things with purpose. Turning an idea into a functioning system is what keeps me coding — connecting each layer until everything works as one cohesive piece. When something captures my attention, I tend to dive deep until it becomes a finished, structured project.
 
-### 👯 I’m looking to collaborate on
-- Open-source Angular projects  
-- Java/Spring Boot backend tools or utilities
+My core stack is **Angular**, **TypeScript**, **Spring Boot**, and **MySQL**. I focus on clean architectures, predictable behavior, and long-term maintainability. Working across the entire stack gives me the control I need to shape how a system grows from start to finish.
 
-### 🤔 I’m looking for help with
-- Improving CI/CD pipelines  
-- Deployment on cloud platforms such as Railway, Render, and Heroku
+### What I'm working on right now
+I'm expanding my tech stack and refining how I approach full-stack development.
 
-### 💬 Ask me about
-- Web development  
-- Inventory systems  
-- Angular component architecture  
-- REST APIs
+My main project is a full-stack **inventory management system** — originally built for my final degree project, and now the project that defined how I understand software design.
 
-### 📫 How to reach me
-- GitHub: **@Igniii**
+I don’t have hundreds of repositories, but every project I create is deliberate, structured, and built to teach me something new.
 
-### ⚡ Fun fact
-- I love experimenting with different architectures for the same app just to compare maintainability.
+If you want to discuss code, architecture, or how to make systems more reliable, you can reach me here on GitHub.
+
+---
+
+### Fun Facts
+- I fell in love with coding while building my first complete web app  
+- Videogames and anime are my way to reset  
+- Coding with music keeps me focused  
+- Coffee is my default debugging companion  
+- I'm always learning — even when I didn’t plan to
