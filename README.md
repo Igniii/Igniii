@@ -2,24 +2,25 @@
 
 I'm Igniii, a full-stack developer based in Spain.
 
-I like building things with purpose. Turning an idea into a functioning system is what keeps me coding — connecting each layer until everything works as one cohesive piece. When something captures my attention, I tend to dive deep until it becomes a finished, structured project.
+I enjoy building purposeful systems — taking an idea and turning it into a clean, functional product. I focus on solid architectures, predictable behavior, and long-term maintainability across both the frontend and backend.
 
-My core stack is **Angular**, **TypeScript**, **Spring Boot**, and **MySQL**. I focus on clean architectures, predictable behavior, and long-term maintainability. Working across the entire stack gives me the control I need to shape how a system grows from start to finish.
+**Tech stack:** Angular ⚡ TypeScript ⚡ Spring Boot ⚡ MySQL
 
-### What I'm working on right now 💻
+### 💻 What I'm working on
 I'm expanding my tech stack and refining how I approach full-stack development.
 
-My main project is a full-stack **inventory management system** — originally built for my final degree project, and now the project that defined how I understand software design.
+My current main project is a full-stack **inventory management system**, originally built for my final degree project and now the project that shaped how I think about software design.
 
-I don’t have hundreds of repositories, but every project I create is deliberate, structured, and built to teach me something new.
+Every project I build is intentional and meant to teach me something new.
 
-If you want to discuss code, architecture, or how to make systems more reliable, you can reach me here on GitHub.
+### 📫 Contact
+You can reach me here on GitHub if you want to talk about code, architecture, or system reliability.
 
 ---
 
-### Fun Facts
-- I fell in love with coding while building my first web app  
-- Videogames and anime are my way to unwind ʙᴀɴᴋᴀɪ!
-- Coding with music keeps me focused  
-- Coffee is my default debugging companion  
-- I'm always learning — even when I didn’t plan to
+### 🧩 Fun Facts
+- Fell in love with coding while building my first web app  
+- Videogames and anime help me unwind 🎮📺  
+- Coding with music keeps me focused 🎧  
+- Coffee is my debugging companion ☕  
+- Always learning — even when I didn’t plan to
