@@ -6,6 +6,8 @@ I enjoy building purposeful systems — taking an idea and turning it into a cle
 
 **Tech stack:** Angular ⚡ TypeScript ⚡ Spring Boot ⚡ MySQL
 
+---
+
 ### 💻 What I'm working on
 I'm expanding my tech stack and refining how I approach full-stack development.
 
