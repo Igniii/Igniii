@@ -4,7 +4,7 @@ I'm Igniii, a full-stack developer based in Spain.
 
 I enjoy building purposeful systems — taking an idea and turning it into a clean, functional product. I focus on solid architectures, predictable behavior, and long-term maintainability across both the frontend and backend.
 
-**Tech stack:** Angular ⚡ TypeScript ⚡ Spring Boot ⚡ MySQL
+**Tech stack:** Angular ⚡ TypeScript ⚡ Spring Boot ⚡ MySQL ⚡ Railway 
 
 ### 💻 What I'm working on
 I'm expanding my tech stack and refining how I approach full-stack development.
