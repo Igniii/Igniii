@@ -9,7 +9,7 @@ I enjoy building purposeful systems — taking an idea and turning it into a cle
 ---
 
 ### 💻 What I'm working on
-I'm expanding my tech stack and refining how I approach full-stack development.
+I'm improving the knowledge of my actual tech stack and refining how I approach full-stack development.
 
 My current main project is a full-stack **inventory management system**, originally built for my final degree project and now the project that shaped how I think about software design.
 
