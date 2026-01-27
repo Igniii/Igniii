@@ -8,20 +8,11 @@ I turn ideas into clean, functional products — the kind that work predictably 
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io/) [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/)
-
-
-
 ---
 
 ### 💻 What I'm Building
 
 Right now, I'm deepening my expertise in my core tech stack and refining my approach to full-stack architecture.
-
-**Current Focus:**  
-A full-stack **inventory management system** — originally my final degree project, now the foundation for how I think about software design. It's evolved from an academic exercise into a real exploration of what makes systems robust, scalable, and maintainable.
-
-Every project I build has a purpose: to teach me something I didn't know before.
-
 ---
 
 ### 🧩 More About Me
