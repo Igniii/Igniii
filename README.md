@@ -1,6 +1,6 @@
 ## Hey there 🤙
 
-I'm **Igniii**, a web developer with a strong focus on full-stack development, based in Spain.
+I'm **Igniii**, a software developer with a strong focus on full-stack development, based in Spain.
 
 **Tech Stack:** <br><br>
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io/) [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
